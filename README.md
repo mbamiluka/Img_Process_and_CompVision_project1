@@ -2,7 +2,7 @@
 
 This image uses image processsing techniques including; face detection, skin detection, morphological tools, etc to remove a face mask.
 
-### To run this project;
+## To run this project;
 1. Open the .ipynb file above in a new tab. Don't switch too this tab yet
 2. Download the images above - pp1.png and pp2.png
 3. Download the xml file - haarcascade_frontalface_default.xml
@@ -12,6 +12,6 @@ This image uses image processsing techniques including; face detection, skin det
 
 After following these steps, you can play around with it in your own manner.
 
-### If you are mainly looking to view the outputs and results after compiling; 
+## If you are mainly looking to view the outputs and results after compiling; 
 1. Click on the .ipynb
 2. Scroll down to the very bottom to see the output images
