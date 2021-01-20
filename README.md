@@ -12,6 +12,6 @@ This image uses image processsing techniques including; face detection, skin det
 
 After following these steps, you can play around with it in your own manner.
 
-### If you are mainly looking to view the outputs and results after compiling, 
+### If you are mainly looking to view the outputs and results after compiling; 
 1. Click on the .ipynb
 2. Scroll down to the very bottom to see the output images
