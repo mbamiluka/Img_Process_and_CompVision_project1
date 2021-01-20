@@ -1,6 +1,6 @@
 # Img_Process_and_CompVision_project1 - OpenCV + Python
 
-This image uses image processsing techniques including; face detection, skin detection, morphological tools, etc to remove a face mask.
+This project uses image processsing techniques including; face detection, skin detection, morphological tools, etc to remove a face mask.
 
 ## To run this project;
 1. Right-click on project1.ipynb above and open new tab. Don't switch too this tab yet
